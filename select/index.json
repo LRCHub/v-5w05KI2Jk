@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "EPIPHANY",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T06:40:43.533988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/01_Epiphany_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Epiphany (Cover Version)",
+      "artist": "Various Artists - Staind Tribute",
+      "has_synced": false,
+      "path": "select/02_Epiphany_(Cover_Version)_Various_Artists_-_Staind_Tribute.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Blueneck",
+      "has_synced": true,
+      "path": "select/03_Epiphany_Blueneck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Throwing Muses",
+      "has_synced": true,
+      "path": "select/04_Epiphany_Throwing_Muses.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Failure Epiphany",
+      "artist": "Draconian",
+      "has_synced": true,
+      "path": "select/05_The_Failure_Epiphany_Draconian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/06_Epiphany_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "epiphany",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_epiphany_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "VEXED",
+      "has_synced": false,
+      "path": "select/08_Epiphany_VEXED.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Ross from Friends",
+      "has_synced": true,
+      "path": "select/09_Epiphany_Ross_from_Friends.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Epiphany - Edit",
+      "artist": "Ross from Friends",
+      "has_synced": true,
+      "path": "select/10_Epiphany_-_Edit_Ross_from_Friends.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/11_Epiphany_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nightmare Epiphany",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/12_Nightmare_Epiphany_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/13_Epiphany_Staind.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/14_Epiphany_Staind.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Epiphany",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/15_Epiphany_Staind.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "epiphany",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_epiphany_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EPIPHANY",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_EPIPHANY_UVERworld.txt"
+    }
+  ]
+}
